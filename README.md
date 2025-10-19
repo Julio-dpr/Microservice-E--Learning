@@ -40,7 +40,7 @@ Comunicación entre microservicios vía HTTP/JSON (o gRPC más adelante).
 
 Cada microservicio maneja su propia base de datos.
 
-🔒 Requerimientos no funcionales
+🔒 Requerimientos no funcionales.
 
 Escalabilidad: los microservicios deben poder desplegarse y escalarse de manera independiente.
 
