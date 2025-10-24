@@ -13,7 +13,7 @@ Asignar categorías, niveles y etiquetas a cada curso.
 
 Gestión de usuarios
 
-Registro y autenticación de estudiantes y docentes.
+Registro y autenticación de estudiantes y docentes
 
 Perfil de usuario con historial de cursos.
 
