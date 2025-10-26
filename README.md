@@ -15,7 +15,7 @@ Gestión de usuarios
 
 Registro y autenticación de estudiantes y docentes
 
-Perfil de usuario con historial de cursos.
+Perfil de usuario con historial de cursos
 
 Los estudiantes pueden inscribirse en cursos disponibles.
 
