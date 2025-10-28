@@ -29,7 +29,7 @@ Servicio de cursos.
 
 Servicio de inscripciones.
 
-Servicio de notificaciones (ej: recordatorios por email).
+Servicio de notificaciones (ej: recordatorios por email)
 2da implementacion
 
 API RESTFULL
