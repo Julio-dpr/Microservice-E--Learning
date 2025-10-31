@@ -38,7 +38,7 @@ Endpoints documentados para cada servicio.
 
 Comunicación entre microservicios vía HTTP/JSON (o gRPC más adelante).
 
-Cada microservicio maneja su propia base de datos.
+Cada microservicio maneja su propia base de datos
 
 🔒 Requerimientos no funcionales
 
