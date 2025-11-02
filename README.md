@@ -44,7 +44,7 @@ Cada microservicio maneja su propia base de datos
 
 Escalabilidad: los microservicios deben poder desplegarse y escalarse de manera independiente.
 
-Seguridad: autenticación y autorización con JWT u OAuth2.
+Seguridad: autenticación y autorización con JWT u OAuth2
 
 Disponibilidad: sistema tolerante a fallos con posibilidad de orquestación (Docker/Kubernetes).
 
