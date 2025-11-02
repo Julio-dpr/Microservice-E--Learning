@@ -23,7 +23,7 @@ Validación de cupos y disponibilidad.
 
 Microservicios independientes
 
-Servicio de usuarios.
+Servicio de usuarios
 
 Servicio de cursos.
 
