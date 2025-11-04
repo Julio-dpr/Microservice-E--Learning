@@ -19,7 +19,7 @@ Perfil de usuario con historial de cursos
 
 Los estudiantes pueden inscribirse en cursos disponibles
 
-Validación de cupos y disponibilidad.
+Validación de cupos y disponibilidad
 
 Microservicios independientes
 
