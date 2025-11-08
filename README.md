@@ -36,7 +36,7 @@ API RESTFULL
 
 Endpoints documentados para cada servicio.
 
-Comunicación entre microservicios vía HTTP/JSON (o gRPC más adelante).
+Comunicación entre microservicios vía HTTP/JSON (o gRPC más adelante)
 
 Cada microservicio maneja su propia base de datos
 
