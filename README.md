@@ -25,7 +25,7 @@ Microservicios independientes
 
 Servicio de usuarios
 
-Servicio de cursos.
+Servicio de cursos
 
 Servicio de inscripciones.
 
