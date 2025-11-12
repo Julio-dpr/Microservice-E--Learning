@@ -52,7 +52,7 @@ Mantenibilidad: código organizado, modular y con documentación clara.
 
 Portabilidad: cada microservicio debe correr en contenedores para fácil despliegue.
 
-Monitoreo y logs: integración futura con herramientas de observabilidad (Prometheus, Grafana, ELK).
+Monitoreo y logs: integración futura con herramientas de observabilidad (Prometheus, Grafana, ELK)
 
 📦 Tecnologías a usar (mínimos requerimientos)
 Backend: Python (FastAPI o Django Rest Framework).
