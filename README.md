@@ -7,7 +7,7 @@ Requerimientos funcionales
 
 Gestión de Recursos
 
-Crear, editar, eliminar y listar cursos.
+Crear, editar, eliminar y listar cursos
 
 Asignar categorías, niveles y etiquetas a cada curso
 
