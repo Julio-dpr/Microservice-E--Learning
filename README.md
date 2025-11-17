@@ -55,7 +55,7 @@ Portabilidad: cada microservicio debe correr en contenedores para fácil desplie
 Monitoreo y logs: integración futura con herramientas de observabilidad (Prometheus, Grafana, ELK)
 
 📦 Tecnologías a usar (mínimos requerimientos)
-Backend: Python (FastAPI o Django Rest Framework).
+Backend: Python (FastAPI o Django Rest Framework)
 
 Base de datos: MySQL/PostgreSQL (según microservicio).
 
