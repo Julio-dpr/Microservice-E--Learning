@@ -48,7 +48,7 @@ Seguridad: autenticación y autorización con JWT u OAuth2
 
 Disponibilidad: sistema tolerante a fallos con posibilidad de orquestación (Docker/Kubernetes).
 
-Mantenibilidad: código organizado, modular y con documentación clara.
+Mantenibilidad: código organizado, modular y con documentación clara
 
 Portabilidad: cada microservicio debe correr en contenedores para fácil despliegue.
 
