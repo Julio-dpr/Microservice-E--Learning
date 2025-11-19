@@ -57,7 +57,7 @@ Monitoreo y logs: integración futura con herramientas de observabilidad (Promet
 📦 Tecnologías a usar (mínimos requerimientos)
 Backend: Python (FastAPI o Django Rest Framework)
 
-Base de datos: MySQL/PostgreSQL (según microservicio).
+Base de datos: MySQL/PostgreSQL (según microservicio)
 
 Mensajería/colas (futuro): RabbitMQ o Kafka.
 
