@@ -68,7 +68,7 @@ Gestión de repositorios: Git + GitHub.
 
 Backend: Python (FastAPI o Django Rest Framework).
 
-Base de datos: MySQL/PostgreSQL (según microservicio).
+Base de datos: MySQL/PostgreSQL (según microservicio)
 
 Mensajería/colas (futuro): RabbitMQ o Kafka.
 
