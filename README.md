@@ -34,7 +34,7 @@ Servicio de notificaciones (ej: recordatorios por email)
 
 API RESTFULL
 
-Endpoints documentados para cada servicio.
+Endpoints documentados para cada servicio
 
 Comunicación entre microservicios vía HTTP/JSON (o gRPC más adelante)
 
