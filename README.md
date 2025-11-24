@@ -59,7 +59,7 @@ Backend: Python (FastAPI o Django Rest Framework)
 
 Base de datos: MySQL/PostgreSQL (según microservicio)
 
-Mensajería/colas (futuro): RabbitMQ o Kafka.
+Mensajería/colas (futuro): RabbitMQ o Kafka
 
 Contenedores: Docker.
 Gestión de repositorios: Git + GitHub.
