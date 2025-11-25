@@ -46,7 +46,7 @@ Escalabilidad: los microservicios deben poder desplegarse y escalarse de manera 
 
 Seguridad: autenticación y autorización con JWT u OAuth2
 
-Disponibilidad: sistema tolerante a fallos con posibilidad de orquestación (Docker/Kubernetes).
+Disponibilidad: sistema tolerante a fallos con posibilidad de orquestación (Docker/Kubernetes)
 
 Mantenibilidad: código organizado, modular y con documentación clara
 
