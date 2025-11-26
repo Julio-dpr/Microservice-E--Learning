@@ -50,7 +50,7 @@ Disponibilidad: sistema tolerante a fallos con posibilidad de orquestación (Doc
 
 Mantenibilidad: código organizado, modular y con documentación clara
 
-Portabilidad: cada microservicio debe correr en contenedores para fácil despliegue.
+Portabilidad: cada microservicio debe correr en contenedores para fácil despliegue
 
 Monitoreo y logs: integración futura con herramientas de observabilidad (Prometheus, Grafana, ELK)
 
