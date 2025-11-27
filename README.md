@@ -66,7 +66,7 @@ Gestión de repositorios: Git + GitHub.
 
 📦 Tecnologías a usar (mínimas)
 
-Backend: Python (FastAPI o Django Rest Framework).
+Backend: Python (FastAPI o Django Rest Framework)
 
 Base de datos: MySQL/PostgreSQL (según microservicio)
 
