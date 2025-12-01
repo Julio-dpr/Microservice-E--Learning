@@ -72,7 +72,7 @@ Base de datos: MySQL/PostgreSQL (según microservicio)
 
 Mensajería/colas (futuro): RabbitMQ o Kafka
 
-Contenedores: Docker.
+Contenedores: Docker
 
 Gestión de repositorios: Git + GitHub.
 Creacion de diferentes apartados en figma
