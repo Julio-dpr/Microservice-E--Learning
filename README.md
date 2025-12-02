@@ -74,7 +74,7 @@ Mensajería/colas (futuro): RabbitMQ o Kafka
 
 Contenedores: Docker
 
-Gestión de repositorios: Git + GitHub.
+Gestión de repositorios: Git + GitHub
 Creacion de diferentes apartados en figma
 IMAGEN 
 
